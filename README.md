@@ -1,5 +1,7 @@
 ### Hi people 👋
 
+ ![github stats](https://github-readme-stats.vercel.app/api?username=andriawan&show_icons=true)
+
 - 🔭 I’m currently working on [ICSP](http://icsp.co.id) Software House Company in East Jakarta
 - 🌱 I’m currently learning Javascript & Flutter stuff
 - 🌱 I’m professionally experienced on PHP Web Development (Laravel & Codeigniter)
