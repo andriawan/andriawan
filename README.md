@@ -2,7 +2,7 @@
 
  ![github stats](https://github-readme-stats.vercel.app/api?username=andriawan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-- 🔭 I’m currently working on PT PMG as Frontend Developer. Interact more often with VueJS.
+- 🔭 I’m currently working on [PT PMG](https://pmg.id) as Frontend Web Developer. Interact more often with VueJS.
 - 🔭 I was working on [ICSP](http://icsp.co.id) Software House Company in East Jakarta
 - 🌱 I’m currently learning Javascript & Flutter stuff
 - 🌱 I’m professionally experienced on PHP Web Development (Laravel & Codeigniter)
