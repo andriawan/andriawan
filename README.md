@@ -1,7 +1,7 @@
 ### Hi people 👋
 
 - 🔭 I’m currently working on PT ICA as Fullstack Engineer. Interact more often with VueJS and Springboot.
-- 🔭 I was working on [PT PNG](https://pmg.id) as Frontend Engineer in Bandung (2020 - 2023)
+- 🔭 I was working on [PT PMG](https://pmg.id) as Frontend Engineer in Bandung (2020 - 2023)
 - 🔭 I was working on [ICSP](http://icsp.co.id) Software House Company in East Jakarta (2018 - 2020)
 - 🌱 I’m currently learning Javascript and Java stuff and trying to improve and be better.
 - 🌱 I’m professionally experienced on PHP Web Development (Laravel & Codeigniter) & Frontend Development (Vue, React and Angular).
