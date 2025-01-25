@@ -1,6 +1,7 @@
 ### Hi people 👋
 
-- 🔭 I’m currently working on PT ICA as Fullstack Engineer. Interact more often with VueJS and Springboot.
+- 🔭 I’m currently working on PT ICA as Frontend Engineer. Interact more often with Nuxt 3
+- 🔭 I was working on [ctr.id](https://ctr.id) as Fullstack Engineer in Bandung (2023 - 2025)
 - 🔭 I was working on [PT PMG](https://pmg.id) as Frontend Engineer in Bandung (2020 - 2023)
 - 🔭 I was working on [ICSP](http://icsp.co.id) Software House Company in East Jakarta (2018 - 2020)
 - 🔭 I'm an external contributor at [Kominfo Pemuda Persis](https://gitlab.com/kominfo-pemuda-persis) (2020 - present)
