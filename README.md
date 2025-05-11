@@ -1,6 +1,7 @@
 ### Hi people 👋
 
-- 🔭 I’m currently working on PT ICA as Frontend Engineer. Interact more often with Nuxt 3
+- 🔭 I’m currently documenting my Frontend Portofolio on [story.andriawan.com](https://story.andriawan.com)
+- 🔭 I’m currently working on PT ICA as Frontend Engineer. Interact more often with Nuxt 2, Nuxt 3 and Qwik
 - 🔭 I was working on [ctr.id](https://ctr.id) as Fullstack Engineer in Bandung (2023 - 2025)
 - 🔭 I was working on [PT PMG](https://pmg.id) as Frontend Engineer in Bandung (2020 - 2023)
 - 🔭 I was working on [ICSP](http://icsp.co.id) Software House Company in East Jakarta (2018 - 2020)
