@@ -1,7 +1,7 @@
 ### Hi people 👋
 
 - 🔭 I’m currently documenting my Frontend Portofolio on [story.andriawan.com](https://story.andriawan.com)
-- 🔭 I was working on [scalev.id](https://scalev.id) as Frontend Engineer in Bandung (2020 - 2023). Interact more often with Nuxt 2, Nuxt 3 and Qwik
+- 🔭 I was working on [scalev.id](https://scalev.id) as Frontend Engineer in Bandung (January 2025 - August 2025). Interact more often with Nuxt 2, Nuxt 3 and Qwik
 - 🔭 I was working on [ctr.id](https://ctr.id) as Fullstack Engineer in Bandung (2023 - 2025)
 - 🔭 I was working on [ICSP](http://icsp.co.id) Software House Company in East Jakarta (2018 - 2020)
 - 🔭 I'm an external contributor at [Persis Labs](https://gitlab.com/kominfo-pemuda-persis) (2020 - present)
