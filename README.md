@@ -1,5 +1,6 @@
-### Hi people 👋
+### Hire me (Open for Full-time) 👋
 
+- 🔭 I’m currently doing Freelance at [MHDC Clinic](https://mhdc.co.id/)
 - 🔭 I’m currently documenting my Frontend Portofolio on [story.andriawan.com](https://story.andriawan.com)
 - 🔭 I was working on [scalev.id](https://scalev.id) as Frontend Engineer in Bandung (January 2025 - August 2025). Interact more often with Nuxt 2, Nuxt 3 and Qwik
 - 🔭 I was working on [ctr.id](https://ctr.id) as Fullstack Engineer in Bandung (2020 - 2025)
